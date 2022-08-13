@@ -784,7 +784,7 @@ a:hover {
 }
 @media (max-width: 768px) {
   .hero{
-    padding-top: 20%;
+    padding-top: 40%;
   }
   .hero .hero-title {
     font-size: 2rem;
